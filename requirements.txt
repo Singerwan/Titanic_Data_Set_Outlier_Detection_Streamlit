@@ -3,3 +3,4 @@ pandas
 numpy
 plotly.express
 seaborn
+streamlit_option_menu
